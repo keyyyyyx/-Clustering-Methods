@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.11)  5 JUN 2023 22:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.11)  28 JUN 2023 17:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**BIOST527ProjReport.tex
-(./BIOST527ProjReport.tex
+**Report.tex
+(./Report.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/Users/apple/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -401,8 +401,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count301
 \l__pdf_internal_box=\box63
-) (./BIOST527ProjReport.aux)
-\openout1 = `BIOST527ProjReport.aux'.
+) (./Report.aux)
+\openout1 = `Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
 LaTeX Font Info:    ... okay on input line 71.
@@ -467,9 +467,9 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 71.
-(./BIOST527ProjReport.out) (./BIOST527ProjReport.out)
+(./Report.out) (./Report.out)
 \@outlinefile=\write3
-\openout3 = `BIOST527ProjReport.out'.
+\openout3 = `Report.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 73.
 (/Users/apple/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -571,20 +571,20 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 429.
 (/Users/apple/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [6] [7] (./BIOST527ProjReport.aux)
-Package rerunfilecheck Info: File `BIOST527ProjReport.out' has not changed.
+) [6] [7] (./Report.aux)
+Package rerunfilecheck Info: File `Report.out' has not changed.
 (rerunfilecheck)             Checksum: 68B4077B32F7C55C87D8F372F61BB96A;2269.
  ) 
 Here is how much of TeX's memory you used:
  12594 strings out of 477984
- 204026 string characters out of 5838561
- 1864388 words of memory out of 5000000
+ 203822 string characters out of 5838561
+ 1863388 words of memory out of 5000000
  32529 multiletter control sequences out of 15000+600000
  555261 words of font info for 71 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,8n,76p,450b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,76p,438b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/apple/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/apple/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users/apple/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/apple/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/apple/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/apple/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/apple/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/apple/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/apple/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/apple/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on BIOST527ProjReport.pdf (7 pages, 621756 bytes).
+Output written on Report.pdf (7 pages, 621498 bytes).
 PDF statistics:
  205 PDF objects out of 1000 (max. 8388607)
  164 compressed objects within 2 object streams
